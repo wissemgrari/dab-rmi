@@ -16,7 +16,8 @@ public class Server {
       // On lance l'annuaire des objets distants
       LocateRegistry.createRegistry(1099);
 
-      System.out.println("******* Serveur de compte Bancaire *******\n\n +++++ Saisie des comptes bancaires +++++");
+      System.out.println("******* Serveur de compte Bancaire *******\n");
+      System.out.println("******* Saisie des comptes bancaires *******\n");
 
       do {
         // On demande les informations du compte
