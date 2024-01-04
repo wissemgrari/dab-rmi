@@ -1,4 +1,4 @@
-# CompteBancaire Application
+# Bank Console Application
 
 - This is a simple banking application that allows users to perform basic banking transactions such as withdrawals, deposits, and transfers.
 - It uses `Java RMI (Remote Method Invocation)` to enable communication between client and server components.
